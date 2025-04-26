@@ -19,9 +19,9 @@
         { "name": "1738", "volume": 0.8, "pitch": 1}
     ], "replace": true, "subtitle":"subtitles.entity.warden.emerge" },
 
-    "entity.villager.ambient": { "sounds": [
+    "entity.wandering_trader.ambient": { "sounds": [
         { "name": "carrosycamionetas", "volume": 0.8, "pitch": 1}
-    ], "replace": true, "subtitle":"subtitles.entity.villager.ambient" },
+    ], "replace": true, "subtitle":"subtitles.entity.wandering_trader.ambient" },
     "entity.wither.spawn": { "sounds": [
         { "name": "wither", "volume": 0.4, "pitch": 1}
     ], "replace": true, "subtitle":"subtitles.entity.wither.spawn" }
