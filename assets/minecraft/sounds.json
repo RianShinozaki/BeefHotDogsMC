@@ -21,5 +21,9 @@
 
     "entity.villager.ambient": { "sounds": [
         { "name": "carrosycamionetas", "volume": 0.8, "pitch": 1}
-    ], "replace": true, "subtitle":"subtitles.entity.villager.ambient" }
+    ], "replace": true, "subtitle":"subtitles.entity.villager.ambient" },
+    "entity.wither.spawn": { "sounds": [
+        { "name": "wither", "volume": 0.4, "pitch": 1}
+    ], "replace": true, "subtitle":"subtitles.entity.wither.spawn" }
+
 }
