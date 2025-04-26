@@ -1,0 +1,17 @@
+{
+    "entity.player.hurt": { "sounds": [
+        { "name": "legos", "volume": 0.8, "pitch": 1}
+    ], "replace": true, "subtitle":"subtitles.entity.player.hurt" },
+
+    "entity.generic.explode": { "sounds": [
+        { "name": "fart", "volume": 0.8, "pitch": 1}
+    ], "replace": true, "subtitle":"subtitles.entity.generic.explode" },
+
+    "entity.player.levelup": { "sounds": [
+        { "name": "fart", "volume": 0.8, "pitch": 1}
+    ], "replace": true, "subtitle":"subtitles.entity.player.levelup" },
+
+    "entity.warden.emerge": { "sounds": [
+        { "name": "1738", "volume": 0.8, "pitch": 1}
+    ], "replace": true, "subtitle":"subtitles.entity.warden.emerge" }
+}
