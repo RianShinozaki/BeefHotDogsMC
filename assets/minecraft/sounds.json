@@ -3,6 +3,10 @@
         { "name": "legos", "volume": 0.8, "pitch": 1}
     ], "replace": true, "subtitle":"subtitles.entity.player.hurt" },
 
+    "entity.player.death": { "sounds": [
+        { "name": "foghorn", "volume": 0.8, "pitch": 1}
+    ], "replace": true, "subtitle":"subtitles.entity.player.death" },
+
     "entity.generic.explode": { "sounds": [
         { "name": "fart", "volume": 0.8, "pitch": 1}
     ], "replace": true, "subtitle":"subtitles.entity.generic.explode" },
@@ -13,5 +17,9 @@
 
     "entity.warden.emerge": { "sounds": [
         { "name": "1738", "volume": 0.8, "pitch": 1}
-    ], "replace": true, "subtitle":"subtitles.entity.warden.emerge" }
+    ], "replace": true, "subtitle":"subtitles.entity.warden.emerge" },
+
+    "entity.villager.ambient": { "sounds": [
+        { "name": "carrosycamionetas", "volume": 1, "pitch": 1}
+    ], "replace": true, "subtitle":"subtitles.entity.villager.ambient" }
 }
